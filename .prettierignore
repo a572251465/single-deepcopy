@@ -1,7 +1,5 @@
 /dist/
-/static/
 /node_modules/
+__test__
 *.*
 !*.js
-!*.ts
-!*.vue
